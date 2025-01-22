@@ -1,2 +1,2 @@
-# Accelerators4HPC
-AI Accelerators for HPC Website 
+# Converged HPC and AI Simulation
+Two Worlds Collide BoF Website
